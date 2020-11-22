@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.box{
+    background-color: gray;
+    font-size: 24px;
+    padding: 34px;
+    width: 33%;
+    margin: 20px;
+    border: 2px solid black;
+}
+.name{
+   
+    margin-left: 70%;
+    font-size: 18px;
+    padding: 4px;
+    background-color: yellow;
+    width: 24%;
+    border: 2px solid black;
+}
